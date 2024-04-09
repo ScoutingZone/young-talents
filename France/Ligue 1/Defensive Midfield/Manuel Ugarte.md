@@ -1,5 +1,5 @@
 # Manuel Ugarte
-## Paris SG
+## Paris Saint-Germain
 
 - Full Name: Manuel Ugarte Ribeiro
 - Date of birth: Apr 11, 2001 (22)

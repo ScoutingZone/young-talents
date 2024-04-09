@@ -12,3 +12,10 @@
 - Current club: SL Benfica
 - Joined: Jan 4, 2024
 - Contract expires: Jun 30, 2029
+
+---
+
+## FC 24 Potential
+
+- Rating: 76
+- Potential: 85

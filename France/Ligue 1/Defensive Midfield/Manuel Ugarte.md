@@ -12,3 +12,10 @@
 - Current club: Paris Saint-Germain
 - Joined: Jul 7, 2023
 - Contract expires: Jun 30, 2028
+
+---
+
+## FC 24 Potential
+
+- Rating: 81
+- Potential: 86

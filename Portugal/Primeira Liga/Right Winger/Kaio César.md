@@ -15,3 +15,10 @@
 - Contract option: Option to buy
 - On loan from: Coritiba Foot Ball Club
 - Contract there expires: Dec 31, 2024
+
+---
+
+## FC 24 Potential
+
+- Rating: 67
+- Potential: 83

@@ -13,3 +13,10 @@
 - Joined: Jul 1, 2023
 - Contract expires: Jun 30, 2028
 - Last contract extension: Dec 22, 2023
+
+---
+
+## FC 24 Potential
+
+- Rating: 74
+- Potential: 83

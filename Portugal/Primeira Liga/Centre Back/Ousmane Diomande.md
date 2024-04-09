@@ -11,3 +11,10 @@
 - Current club: Sporting CP
 - Joined: Jan 31, 2023
 - Contract expires: Jun 30, 2027
+
+---
+
+## FC 24 Potential
+
+- Rating: 78
+- Potential: 86

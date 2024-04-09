@@ -12,3 +12,10 @@
 - Current club: FC Porto
 - Joined: Aug 31, 2023
 - Contract expires: Jun 30, 2028
+
+---
+
+## FC 24 Potential
+
+- Rating: 75
+- Potential: 83
